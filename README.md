@@ -7,4 +7,4 @@ Step 1 Run the Batch file. NOT THE VBS!!!
 
 Step 2 restart pc.
 
-Step 3 (Optional) Move Vbs script to startup so it automatically runs and removes watermark
+Step 3 (Optional) Move Vbs but not the Bat file unless you want my github to popup everytime you boot to the SAME startup folder so it automatically runs and removes watermark as this fix is only temporary. (Unless run on startup)
