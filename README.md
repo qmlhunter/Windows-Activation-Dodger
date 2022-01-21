@@ -1,7 +1,7 @@
 # Windows-Activation-Dodger
 Remove your watermark like the dishonest swine you are!
 
-#How to run
+How to run
 
 Step 1 Run ActivationDodger.bat
 
