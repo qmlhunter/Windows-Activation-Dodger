@@ -1,4 +1,4 @@
-# Windows-Activetion-Dodger
+# Windows-Activation-Dodger
 Remove your watermark like the dishonest swine you are!
 
 Heres the tutorial on how to cheese the windows activation watermark on windows 10.
