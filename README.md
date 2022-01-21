@@ -1,10 +1,10 @@
 # Windows-Activetion-Dodger
 Remove your watermark like the dishonest swine you are!
 
-Heres the tutorial on how to cheese the windows activation logo on windows 10.
+Heres the tutorial on how to cheese the windows activation watermark on windows 10.
 
-Step 1 Run the Batch file. NOT THE VBS!!!
+Step 1 Run ActivationDodger.bat
 
-Step 2 restart pc.
+Step 2 Restart pc.
 
-Step 3 (Optional) Move Vbs but not the Bat file unless you want my github to popup everytime you boot to the SAME startup folder so it automatically runs and removes watermark as this fix is only temporary. (Unless run on startup)
+Step 3 (Optional) Move Wrapper.vbs to the Windows startup folder. Make sure you dont move ActivationDodger or Appdata to the startup because the Wrapper will automatically trace the directory.
