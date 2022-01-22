@@ -19,7 +19,7 @@ Compatability:
 
 Architecture: 32Bit + 64 Bit
 
-Operating systems: Windows 10 only
+Operating systems: Windows 10 + Windows 7 (Instead of a watermark windows 7 sends popups and reminders for you to activate)
 
 Minimum specs: You can probably run it on a potato
 
