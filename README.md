@@ -18,8 +18,11 @@ REPORT ALL BUGS AND ISSUES ON THE DISCORD SERVER
 Compatability: 
 
 Architecture: 32Bit + 64 Bit
+
 Operating systems: Windows 10 only
+
 Minimum specs: You can probably run it on a potato
+
 Level of computer knowlege: If you can read simple instructions you'll be just fine
 
 
