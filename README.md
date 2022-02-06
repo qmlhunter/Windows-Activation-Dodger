@@ -12,7 +12,7 @@ Step 3 (Optional) Make a shortcut of Wrapper.vbs and move it to the Windows star
 #DISCLAIMER: 
 THIS PROGRAM WAS BUILD FOR WINDOWS 10. IF YOU WOULD LIKE TO BECOME A TESTER FOR THE PROGRAM JOIN MY DISCORD AND HELP TEST THE PROGRAM ON DIFFERENT SYSTEMS!
 
-Discord invite: https://discord.gg/Zdf9vXcy 
+Discord invite: https://discord.gg/GTwQr4vYfS
 REPORT ALL BUGS AND ISSUES ON THE DISCORD SERVER
 
 Compatability: 
