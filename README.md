@@ -15,7 +15,7 @@ THIS PROGRAM WAS BUILD FOR WINDOWS 10. IF YOU WOULD LIKE TO BECOME A TESTER FOR 
 Discord invite: https://discord.gg/GTwQr4vYfS
 REPORT ALL BUGS AND ISSUES ON THE DISCORD SERVER
 
-Compatability: 
+Compatibility: 
 
 Architecture: 32Bit + 64 Bit
 
